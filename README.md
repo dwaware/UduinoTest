@@ -1,25 +1,21 @@
 # UduinoTest
  A test of multiple inputs and outputs using the Uduino plugin.
+
+Let's create some instrumentation to test out the following:
+1) variable int output from 0-255 for an LED intensity
+2) variable in 0 or 1 that corresponds to an LED intensity of 0 or 255;
+3) variable digital input from 0-1023 that will convert to a surface gravity of 0-2 gees
+4) variable int 0 or 1 that corresponds to a button input (LOW or HIGH)
+
+These correspond to the following physical components:
+
+1) green LED
+2) red LED
+3) 10k Ohm potentiometer
+4) pushbutton
  
- /*
- * 
- * Let's create some instrumentation to test out the following:
- * 1) variable int output from 0-255 for an LED intensity
- * 2) variable in 0 or 1 that corresponds to an LED intensity of 0 or 255;
- * 3) variable digital input from 0-1023 that will convert to a surface gravity of 0-2 gees
- * 4) variable int 0 or 1 that corresponds to a button input (LOW or HIGH)
- * 
- * These correspond to the following physical components:
- * 
- * 1) green LED
- * 2) red LED
- * 3) 10k Ohm potentiometer
- * 4) pushbutton
- * 
- * The collision manager script will control collisions while the gamemanager script will handle
- * displaying the gravity slider on screen as well as the scene reset when the button is pressed.
- * 
- */
+The collision manager script will control collisions while the gamemanager script will handle
+displaying the gravity slider on screen as well as the scene reset when the button is pressed.
 
 The first image is a shot of the Unity IDE.  You can see the pin assigments, namely:
 
