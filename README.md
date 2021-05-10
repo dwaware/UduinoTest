@@ -29,7 +29,7 @@ pin A1 for analog input (10k Ohm pot)
 
 pin 2 for digital input (pushbutton)
 
-![uduino01](https://user-images.githubusercontent.com/74695555/117733531-f3582c80-b1ae-11eb-9936-f3979d3fdb53.png)
+![uduino01](https://user-images.githubusercontent.com/74695555/117734496-d3296d00-b1b0-11eb-92e5-2b65e95c643d.png)
 
 This image shows the hardware with a green "altitude" LED and an unlit, red "collision" LED.
 ![20210510_163627](https://user-images.githubusercontent.com/74695555/117733544-fa7f3a80-b1ae-11eb-9241-8291d92a8d90.jpg)
