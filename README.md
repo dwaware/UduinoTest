@@ -2,10 +2,10 @@
  A test of multiple inputs and outputs using the Uduino plugin.
 
 Let's create some instrumentation to test out the following:
-1) variable digital int output from 0-255 for an LED intensity
-2) variable digital int output 0 or 1 that corresponds to an LED intensity of 0 or 255;
-3) variable analog in input from 0-1023 that will convert to a surface gravity of 0-2 g's
-4) variable digital int input 0 or 1 that corresponds to a button input (LOW or HIGH)
+1) variable digital output from 0-255 for an LED intensity
+2) variable digital output 0 or 1 that corresponds to an LED intensity of 0 or 255;
+3) variable analog input from 0-1023 that will convert to a surface gravity of 0-2 g's
+4) variable digital input 0 or 1 that corresponds to a button input (LOW or HIGH)
 
 These correspond to the following physical components:
 
