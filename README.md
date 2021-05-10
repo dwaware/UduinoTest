@@ -4,7 +4,7 @@
 Let's create some instrumentation to test out the following:
 1) variable int output from 0-255 for an LED intensity
 2) variable in 0 or 1 that corresponds to an LED intensity of 0 or 255;
-3) variable digital input from 0-1023 that will convert to a surface gravity of 0-2 gees
+3) variable digital input from 0-1023 that will convert to a surface gravity of 0-2 g's
 4) variable int 0 or 1 that corresponds to a button input (LOW or HIGH)
 
 These correspond to the following physical components:
