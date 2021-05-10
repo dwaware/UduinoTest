@@ -4,7 +4,7 @@
 Let's create some instrumentation to test out the following:
 1) variable digital output from 0-255 for an LED intensity
 2) variable digital output 0 or 1 that corresponds to an LED intensity of 0 or 255;
-3) variable analog input (DAC converts this to 0-1023) that will set a surface gravity of 0-2 g's
+3) variable analog input (ADC converts this to 0-1023) that will set a surface gravity of 0-2 g's
 4) variable digital input 0 or 1 that corresponds to a button input (LOW or HIGH)
 
 These correspond to the following physical components:
