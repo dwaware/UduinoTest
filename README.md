@@ -19,11 +19,11 @@ displaying the gravity slider on screen as well as the scene reset when the butt
 
 The first image is a shot of the Unity IDE.  You can see the pin assigments, namely:
 
--outputs-
+outputs
 pin 11 digital output for green altitude LED intensity
 pin 10 digital output for red collision LED intensity
 
--inputs-
+inputs
 pin A1 for analog input (10k Ohm pot)
 pin 2 for digital input (pushbutton)
 
