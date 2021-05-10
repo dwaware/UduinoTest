@@ -21,10 +21,12 @@ The first image is a shot of the Unity IDE.  You can see the pin assigments, nam
 
 outputs
 pin 11 digital output for green altitude LED intensity
+
 pin 10 digital output for red collision LED intensity
 
 inputs
 pin A1 for analog input (10k Ohm pot)
+
 pin 2 for digital input (pushbutton)
 
 ![uduino01](https://user-images.githubusercontent.com/74695555/117733531-f3582c80-b1ae-11eb-9936-f3979d3fdb53.png)
